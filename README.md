@@ -11,3 +11,6 @@ In this assignment I want you to:
 5. Make a pull request to the original (my) repository
 
 Goodluck!
+
+If u need some help, this link might help:
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
