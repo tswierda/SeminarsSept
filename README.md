@@ -13,7 +13,7 @@ Instructions:
    When you are finished, you split up for assignment 2. One of you opens 2a, the other two do 2b and 2c (if you are a group of two, the same person does 2b and 2c).
    Everyone follows the instructions in their script. Once you have pushed all your changes, continue.
 
-4. Create a pull request for me to this (original) repo with the student numbers of all collaborators in the title/comment. (Hint: you can use the "New pull request" button and then do a "compare across forks").
+4. Create a pull request for me to this (original) repo **_with the student numbers of all collaborators in the title/comment_**. (Hint: you can use the "New pull request" button and then do a "compare across forks").
 
 If u need some help, this link might help:
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
