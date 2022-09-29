@@ -35,7 +35,7 @@ def upper_case(string):
 
     Returns:
     upper_string -- upper case version of string
-    
+
     """
 
     ### your code starts here
