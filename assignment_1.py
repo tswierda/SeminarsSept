@@ -14,15 +14,15 @@ def lower_case(string):
     lower_string -- lower case version of string
 
     """
-    paulsucks = 0
+    
 
 
 
     ### your code starts here
-
+    string = string.lower()
     ### your code ends here
 
-    return string.lower()
+    return string
 
 
 """
@@ -39,9 +39,9 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
-    x = "markus"
+    
     ### your code starts here
-
+    string = string.upper()
     ### your code ends here
 
-    return string.lower().upper().lower()
+    return string
