@@ -6,12 +6,11 @@ conflict. See if you can fix it :)
 """
 
 def lower_case(string):
-    return string.str.lower()
-
+    return string.lower()
 """
 Do the same thing again with upper_case, but change the order so everyone
 experiences at least 1 merge conflict.
 """
 
 def upper_case(string):
-    return string.str.upper()
+    return string.upper()
