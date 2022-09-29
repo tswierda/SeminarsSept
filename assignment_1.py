@@ -14,7 +14,6 @@ def lower_case(string):
     lower_string -- lower case version of string
 
     """
-
     lower_string = string.lower()
 
     return lower_string
@@ -35,14 +34,20 @@ def upper_case(string):
     
     """
 
-    upper_string = string.upper()
+    upper_string = ""
+    for c in string:
+        if( c >= 'a' and c <= 'z' ):
+            upper_string += chr(ord(c) - ord('a') + ord('A'))
+        else:
+            upper_string += c
 
     return upper_string
 
+def main():
+    print(lower_case("AbC"))
+    print(upper_case("AbC"))
+
 
 if __name__ == "__main__":
-    string = "HALLO WORLD"
-    new_string = lower_case(string)
-    
-    print(new_string)
-    print(upper_case(new_string))
+    main()
+
