@@ -9,17 +9,11 @@ def lower_case(string):
     """
     Argument:
     string -- text you want to turn into lower case
-
     Returns:
     lower_string -- lower case version of string
-
     """
 
-    ### your code starts here
-
-    ### your code ends here
-
-    return lower_string
+    return  
 
 
 """
@@ -31,14 +25,9 @@ def upper_case(string):
     """
     Argument:
     string -- text you want to turn into upper case
-
     Returns:
     upper_string -- upper case version of string
     
     """
 
-    ### your code starts here
-
-    ### your code ends here
-
-    return upper_string
+    return string.lower()
