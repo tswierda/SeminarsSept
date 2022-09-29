@@ -9,11 +9,10 @@ the following numbers and strings as input for the 2 functions:
 Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
-input_2b=[-50, 10, 100, 1000]
-input_2c=['seminars', 'Borrel']
-var_1 = function_2c(input_2c)['add']
 
-var_2 = function_2b(input_2b)["C"]
+var_1 = function_2c(-50, 10, 100, 1000)['add']
+
+var_2 = function_2b('seminars', 'Borrel')["C"]
 
 if var_1 == 950:
     print("Good job!")
