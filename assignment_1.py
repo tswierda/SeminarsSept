@@ -39,7 +39,7 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
-
+    x = "markus"
     ### your code starts here
 
     ### your code ends here
