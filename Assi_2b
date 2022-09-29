@@ -1,0 +1,4 @@
+define a function named function_2b, in which it take the two input strings and transfer the 1st string into
+Lower case and the second one into Upper case
+Then combine the lower and upper into one
+Then put them into a dictionary
