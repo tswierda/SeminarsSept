@@ -5,6 +5,14 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
+    '''
+    Args:
+        string_1: First input string
+        string_2: Second input string
+
+    Returns: Dict with lower, upper and combined verisons of strings
+
+    '''
 
     lower = string_1.lower()
     upper = string_2.upper()
