@@ -10,7 +10,10 @@ def function_2b(string_1, string_2):
         string_1: First input string
         string_2: Second input string
 
-    Returns: Dict with lower, upper and combined verisons of strings
+    Returns: Dict with three entries:
+            'L': Lower case version of string
+            'U': Upper case version of string
+            'C': Combined version of string, without changes in capitalisation
 
     '''
 
