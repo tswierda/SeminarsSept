@@ -10,13 +10,13 @@ def function_2c(w, x, y, z):
     Parameters
     ----------
     w : float
-        A random number
+        A number to add or subtract from
     x : float
-        A random number
+        A number to multiply and divide
     y : float
-        A random number
+        A number to multiply or divide X by
     z : float
-        A random number
+        A number to add or subtract from W
     
     Returns
     -------
