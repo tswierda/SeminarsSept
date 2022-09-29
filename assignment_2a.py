@@ -12,7 +12,8 @@ just give a correct one.
 
 var_1 = function_2c(-50,5,10,1000)["add"]
 
-var_2 = function_2b("Seminars", "Borrel")["C"]
+var_2 = function_2b("Seminars", "Borrel")
+var_2 = var_2.get('C')
 
 if var_1 == 950:
     print("Good job!")
