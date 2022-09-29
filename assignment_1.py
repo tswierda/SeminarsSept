@@ -16,15 +16,15 @@ def lower_case(string):
     """
 
     ### your code starts here
+    lower_string = string.lower()
 
     ### your code ends here
 
     return lower_string
 
-
-"""
-Do the same thing again with upper_case, but change the order so everyone
-experiences at least 1 merge conflict.
+""""
+#Do the same thing again with upper_case, but change the order so everyone
+#experiences at least 1 merge conflict.
 """
 
 def upper_case(string):
