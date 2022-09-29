@@ -16,7 +16,7 @@ def lower_case(string):
     """
 
     ### your code starts here
-
+    string = string.lower()
     ### your code ends here
 
     return lower_string
