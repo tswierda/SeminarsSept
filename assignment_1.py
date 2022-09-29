@@ -17,7 +17,6 @@ def lower_case(string):
 
     ### your code starts here
     lower_string = string.lower()
-
     ### your code ends here
 
     return lower_string
@@ -40,7 +39,10 @@ def upper_case(string):
 
     ### your code starts here
     upper_string = string.upper()
+<<<<<<< HEAD
+=======
 
+>>>>>>> 8375069b7f87ab2bf8386af5d86cc6f377e4dbf2
     ### your code ends here
 
     return upper_string
