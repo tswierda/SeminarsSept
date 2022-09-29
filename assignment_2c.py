@@ -1,8 +1,11 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+input: w, x, y, z
+muliplies x and y
+divides x/y
+adds w+z
+substracts w-z
+stores results in a dict
+output: dict
 """
 def function_2c(w, x, y, z):
 
