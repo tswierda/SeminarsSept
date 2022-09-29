@@ -1,3 +1,4 @@
+#from lib2to3.pytree import _Results
 from assignment_2b import function_2b
 from assignment_2c import function_2c
 
@@ -10,9 +11,9 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2c(...)
+var_1 = function_2c(-50, 1000, 50, 100)
 
-var_2 = function_2b(...)
+var_2 = function_2b('seminar', 'borrel')
 
 if var_1 == 950:
     print("Good job!")
