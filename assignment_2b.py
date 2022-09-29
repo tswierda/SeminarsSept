@@ -5,7 +5,19 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
-
+    """
+    Function that makes string 1 all lowercase, string 2 all uppercase and returns both together with a combination of the two
+    Parameters
+    ----------
+    string_1 : str
+        A string to put in lower case
+    string_2 : str
+        A string to put in upper case    
+    Returns
+    -------
+    dict : dict
+        A dictionary with string 1 as all lowercase, string 2 as all uppercase and a concatination of the two
+    """
     lower = string_1.lower()
     upper = string_2.upper()
     combined = string_1 + string_2
