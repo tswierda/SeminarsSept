@@ -1,8 +1,12 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+Function takes as inputs 2 words(strings)
+the user can convert the first string to lowercase 
+and the second string to uppercase.
+also the function combines the two strings
+a dictionary is created in the form:
+                "L": lower,
+               "U": upper,
+               "C": combined
 """
 def function_2b(string_1, string_2):
 

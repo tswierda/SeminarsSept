@@ -1,8 +1,15 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+Function that takes 4 integers(w, x, y, z) as input and
+then does the following computations:
+1)x times y
+2)x divided by y
+3)w times z
+4)w minus z
+The results are stored in a dictionary  with the following order:
+                "multiply": multiplication,
+               "divide": division,
+               "add": addition,
+               "subtract": subtraction
 """
 def function_2c(w, x, y, z):
 
