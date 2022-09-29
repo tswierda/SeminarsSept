@@ -11,7 +11,6 @@ just give a correct one.
 """
 
 var_1 = function_2c(...)
-
 var_2 = function_2b(...)
 
 if var_1 == 950:
