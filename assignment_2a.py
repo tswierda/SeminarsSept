@@ -11,13 +11,13 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2c(-50, 1000, 50, 100)
+var_1 = function_2c(1000, 1000, 50, 50)
 
-var_2 = function_2b('seminar', 'borrel')
+var_2 = function_2b('Seminars', 'Borrel')
 
-if var_1 == 950:
+if var_1["subtract"] == 950:
     print("Good job!")
 
-if var_2 == "SeminarsBorrel":
+if var_2["C"] == "SeminarsBorrel":
     print("Well done!")
 
