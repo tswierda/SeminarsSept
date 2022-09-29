@@ -10,9 +10,9 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2c(...)
+var_1 = function_2c(-50,10,5,1000)["add"]
 
-var_2 = function_2b(...)
+var_2 = function_2b("Seminars", "Borrel")["C"]
 
 if var_1 == 950:
     print("Good job!")
