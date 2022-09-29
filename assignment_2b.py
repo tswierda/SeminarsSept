@@ -10,10 +10,9 @@ def function_2b(string_1, string_2):
     Parameters
     ----------
     string_1 : str
-        A random string
+        A string to put in lower case
     string_2 : str
-        A random string
-    
+        A string to put in upper case    
     Returns
     -------
     dict : dict
