@@ -14,7 +14,7 @@ def lower_case(string):
     lower_string -- lower case version of string
 
     """
-
+    paulsucks = 0
 
 
 
