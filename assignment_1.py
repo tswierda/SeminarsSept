@@ -41,4 +41,4 @@ def upper_case(string):
 
     ### your code ends here
 
-    return lower_string
+    return upper_string
