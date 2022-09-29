@@ -16,11 +16,11 @@ def lower_case(string):
     """
 
     ### your code starts here
-    lower_string = string.lower()
+    lower_stering = string.lower()
     a=9
     ### your code ends here
 
-    return lower_string
+    return lower_stering
 
 
 """
