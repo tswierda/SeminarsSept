@@ -10,9 +10,12 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2c(...)
+x= [5, 10, 100, 1000, -50, 'seminars', 'Seminars', 'CLS', 'cLs', 'Borrel']
 
-var_2 = function_2b(...)
+var_1 = function_2c(5,10,95,-50)["multiply"]
+
+var_2 = function_2b(string_1='Seminars',string_2='Borrel')["C"]
+
 
 if var_1 == 950:
     print("Good job!")
