@@ -9,9 +9,10 @@ the following numbers and strings as input for the 2 functions:
 Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
+List = [5, 10, 100, 1000, -50, 'seminars', 'Seminars', 'CLS', 'cLs', 'Borrel']
 
-var_1 = function_2c(...)
-var_2 = function_2b(...)
+var_1 = function_2c(List[3], List[1], List[0], List[4])["add"]
+var_2 = function_2b(List[6],List[-1])["C"]
 
 if var_1 == 950:
     print("Good job!")
