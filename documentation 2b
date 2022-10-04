@@ -1,0 +1,8 @@
+"""
+This is the function to make changes of two strings.
+We put results in a dictonary.
+We use keyword 'L' to index all lowercase letters of string_1;
+'U' to index all uppercase letters of string_2;
+'C' to index string_1 + string_2.
+"""
+
