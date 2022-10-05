@@ -21,7 +21,7 @@ def function_2b(string_1, string_2):
     ----------
     dict : dict
         a dictionary with keys: "L","U","C"
-        contains string_1 in lowercase, string_2 in uppercase and the concatenation of L and U respectively
+        contains string_1 in lowercase, string_2 in uppercase and the concatenation of string_1 and string_2 respectively
 
     """
 

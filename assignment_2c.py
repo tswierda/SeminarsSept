@@ -5,7 +5,7 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2c(w, x, y, z):
-        """
+    """
     Takes 4 integers w,x,y and z. Returns a dictionary containing multiplication, division, addition
      and subtraction on these integers.
 
