@@ -6,7 +6,23 @@ No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
     """
-    
+    Takes two strings and returns a dictionary of 3 strings. string_1 in lowercase. String_2 in uppercase.
+    A third string which is the concatenation of the operations on string_1 and string_2.
+
+
+    Parameters
+    ----------
+    string_1: str
+        a string to convert to all lowercase
+    string_2: str
+        a string to convert to all uppercase
+
+    Returns
+    ----------
+    dict : dict
+        a dictionary with keys: "L","U","C"
+        contains string_1 in lowercase, string_2 in uppercase and the concatenation of L and U respectively
+
     """
 
     lower = string_1.lower()
@@ -18,6 +34,4 @@ def function_2b(string_1, string_2):
                "C": combined}
 
     return dict
-
-
-print(function_2b("string 1", "EN de 2de"))
+    
