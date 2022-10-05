@@ -1,0 +1,8 @@
+Documentation for the function 2b, to be found in Ass_seminars-main-> assignment_2b.py
+
+The function takes 2 arguments as input and it reuturns a dictionary with keys:
+     - "L", containing the lower-cased string1
+     -"U", containing the upper-cased string2
+     -"combined" which concatenates the two input strings
+
+
