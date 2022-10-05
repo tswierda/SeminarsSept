@@ -1,0 +1,7 @@
+Documentation for the function 2c, to be found in Ass_seminars-main-> assignment_2c.py
+
+The function takes as input 4 integers and returns a dictionary containing 4 keys:
+    -"multiply", which contains the second and third arguments' multiplication
+    -"divide", which contains the second and third arguments' division
+    -"add", which constains the first and fourth arguments' addition
+    -"subtract", which contains the first and fourth arguments' subtraction.
