@@ -5,7 +5,7 @@ The fastest one to push is lucky, the others will most likely get a merge
 conflict. See if you can fix it :)
 """
 
-def lower_case(v):
+def lower_case(string):
     """
     Argument:
     string -- text you want to turn into lower case
@@ -16,18 +16,10 @@ def lower_case(v):
     """
 
     ### your code starts here
-
-    lower_string = lower(v)
-
-    return lower_string
-
-
+    lower_string = lower(string)
     ### your code ends here
 
-
-
-
-
+    return lower_string
 
 
 """
@@ -35,7 +27,7 @@ Do the same thing again with upper_case, but change the order so everyone
 experiences at least 1 merge conflict.
 """
 
-def upper_case(x):
+def upper_case(string):
     """
     Argument:
     string -- text you want to turn into upper case
@@ -46,11 +38,7 @@ def upper_case(x):
     """
 
     ### your code starts here
-
-    upper_string = upper(x)
-
-    return upper_string
-
+    upper_string = upper(string)
     ### your code ends here
 
-
+    return upper_string
