@@ -1,8 +1,8 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+Arguments: w, x, y, z 
+
+Returns a dictionary containing the following transformation labels and their outcomes
+Multiply and divide x and y in respective order, add and substract for values x and y.
 """
 def function_2c(w, x, y, z):
 

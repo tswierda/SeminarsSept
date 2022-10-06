@@ -1,8 +1,8 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+Arguments two string values you want to store and combine
+
+Returns a dictionary that contains first string value in lower case (L), second string value in upper case (U) and the combined 
+outcome of both string inputs (C). 
 """
 def function_2b(string_1, string_2):
 
