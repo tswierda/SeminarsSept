@@ -11,6 +11,7 @@ def function_2c(w, x, y, z):
     x - first argument for multiplication and division x*y and x/y
     y - second argument for multiplication and division x*y and x/y cannot be 0
     z - second argument for addition and subtraction addition = w + z  subtraction = w - z
+    Return - results of mathematical operations
     """
 
     multiplication = x * y
