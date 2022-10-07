@@ -5,6 +5,16 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2c(w, x, y, z):
+    """
+    Arguments:
+    w - first argument for addition and subtraction addition = w + z  subtraction = w - z
+    x - first argument for multiplication and division x*y and x/y
+    y - second argument for multiplication and division x*y and x/y cannot be 0
+    z - second argument for addition and subtraction addition = w + z  subtraction = w - z
+    Return - dictionary - results of mathematical operations :multiply, divide, add, substract
+    
+    
+    """
 
     multiplication = x * y
     division = x / y
